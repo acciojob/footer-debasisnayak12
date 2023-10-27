@@ -3,6 +3,10 @@ footer{
 	display:flex;
 	flex-direction:column;
 }
+.media-icons{
+	display:flex;
+	flex-wrap:wrap;
+}
 .content{
 	width:100vw;
 	height:60vh;
