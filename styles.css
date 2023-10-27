@@ -20,7 +20,7 @@ footer{
 	font-size:55px;
 	font-weight:800;
 }
-.media-icons>img{
+.media-icons img{
 	height:50px;
 	width:50px;
 	margin-inline:5px;
@@ -30,7 +30,7 @@ footer{
 	justify-content:space-between;
 	align-item:center;
 }
-.link-boxes>div>ul>li{
+.link-boxes div ul li {
 	list-style-type:none;
 	color:white;
 	padding:5px;
@@ -39,12 +39,12 @@ footer{
 	font-size:18px;
 	text-decoration:underline;
 }
-.link-boxes>div>ul>li>a{
+.link-boxes div ul li a{
 	text-decoration:none;
 	color:#929292;
 }
 
-.link-boxes>div>ul>li>a:hover{
+.link-boxes div ul li a:hover{
 	text-decoration:underline;
 }
 .bottom-details{
@@ -57,7 +57,7 @@ footer{
 	color:white;
 	font-size:20px;
 }
-.bottom-details>div{
+.bottom-details div {
 	padding:10px 20px;
 	color:#929292;
 	
